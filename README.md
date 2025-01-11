@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple program that displays text to the consol written in c++
+This is a simple program that displays text to the console written in c++
 
 This program was created to display my basic skills for creating and editing a program and publishing
 that program to a github repository.
