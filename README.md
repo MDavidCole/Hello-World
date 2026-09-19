@@ -5,7 +5,7 @@ This is a simple program that outputs a string to the console. In this case it i
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/K7g4FU8IKPY)
 
 # Development Environment
 
